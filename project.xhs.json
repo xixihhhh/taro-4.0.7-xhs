@@ -1,0 +1,48 @@
+{
+  "miniprogramRoot": "dist/",
+  "description": "xxx",
+  "appid": "xxx",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": true,
+    "ignoreHttpDomainCheck": true,
+    "ignoreWebViewDomainCheck": true,
+    "postcss": false,
+    "minified": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "coverView": false,
+    "showShadowRootInWxmlPanel": false,
+    "packNpmRelationList": [],
+    "ignoreUploadUnusedFiles": true,
+    "condition": true,
+    "compileWorklet": true,
+    "enableVDom": false,
+    "useNewCompiler": false,
+    "enableSimulatorV2": true,
+    "enableV2": false,
+    "useLiteCompiler": false
+  },
+  "projectname": "weapp-laiwei-taro4",
+  "compileType": "miniprogram",
+  "libVersion": "3.111.4",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "simulatorPluginLibVersion": {
+    "wxext14566970e7e9f62": "3.0.2-8"
+  },
+  "projectArchitecture": "multiPlatform"
+}
